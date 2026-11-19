@@ -6,3 +6,19 @@ debug
 foo.*
 *.log
 data
+# cache
+.lazy/
+cache/
+logs/
+
+# swap
+*.swp
+*.swo
+
+# sessions
+session/
+sessions/
+
+# OS
+.DS_Store
+Thumbs.db
